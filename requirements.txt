@@ -1,0 +1,10 @@
+crewai
+crewai-tools
+duckduckgo-search
+langchain-community
+langchain
+langchain-huggingface
+langchain-chroma
+sentence-transformers
+python-dotenv
+tavily-python
