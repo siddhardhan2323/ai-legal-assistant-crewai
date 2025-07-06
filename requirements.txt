@@ -8,3 +8,4 @@ langchain-chroma
 sentence-transformers
 python-dotenv
 tavily-python
+streamlit
