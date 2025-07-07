@@ -1,3 +1,5 @@
+# legal_precedent_search_tool.py
+
 import os
 from dotenv import load_dotenv
 from crewai.tools import tool

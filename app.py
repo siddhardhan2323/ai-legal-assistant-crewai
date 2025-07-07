@@ -1,3 +1,5 @@
+# app.py
+
 import streamlit as st
 from dotenv import load_dotenv
 from crew import legal_assistant_crew

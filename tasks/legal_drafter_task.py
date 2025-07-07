@@ -1,3 +1,5 @@
+# legal_drafter_task.py
+
 from crewai import Task
 
 from agents.legal_drafter_agent import legal_drafter_agent
@@ -15,7 +17,7 @@ legal_drafter_task = Task(
     ),
     expected_output=(
         "A formal legal document such as:\n"
-        "- Title (e.g., LEGAL NOTICE)\n"
+        "- Title (e.g., LEGAL COMPLAINT)\n"
         "- Parties involved\n"
         "- Factual summary\n"
         "- Applicable legal sections\n"

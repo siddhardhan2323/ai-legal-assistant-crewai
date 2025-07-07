@@ -1,3 +1,5 @@
+# query_vectordb.py
+
 import os
 
 from dotenv import load_dotenv
