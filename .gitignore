@@ -209,3 +209,6 @@ __marimo__/
 
 # data folders and files
 chroma_vectordb
+
+# Test files
+test_*.py
