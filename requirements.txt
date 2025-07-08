@@ -9,3 +9,5 @@ sentence-transformers
 python-dotenv
 tavily-python
 streamlit
+mcp
+pydantic-ai
