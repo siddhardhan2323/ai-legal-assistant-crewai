@@ -6,7 +6,7 @@ from crew import legal_assistant_crew
 
 load_dotenv()
 
-st.set_page_config(page_title="🧠 AI Legal Assistant", layout="wide")
+st.set_page_config(page_title="AI Legal Assistant", page_icon="🧠", layout="wide")
 
 st.title("⚖️ Personal AI Legal Assistant")
 st.markdown(

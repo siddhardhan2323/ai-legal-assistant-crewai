@@ -1,6 +1,5 @@
 crewai
 crewai-tools
-duckduckgo-search
 langchain-community
 langchain
 langchain-huggingface
